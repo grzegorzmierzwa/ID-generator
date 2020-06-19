@@ -1,0 +1,8 @@
+{
+  "name": "@grzegorzmierzwa/id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grzegorzmierzwa/ID-generator.git",
+  "author": "Grzegorz Mierzwa",
+  "license": "MIT"
+}
